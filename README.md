@@ -1,5 +1,7 @@
 # MERN-boilerplate
-MERN-boilerplate for adding/reading posts and comments
+MERN-boilerplate for adding/reading posts and comments.
+
+It implemented main authorization like JWT and protected routes.
 
 ### After cloning
 npm run client-install
