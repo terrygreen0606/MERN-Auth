@@ -2,6 +2,7 @@
 MERN-boilerplate for adding/reading posts and comments.
 
 It implemented main authorization like JWT and protected routes.
+This is just for JWT and main blog function.
 
 ### After cloning
 npm run client-install
