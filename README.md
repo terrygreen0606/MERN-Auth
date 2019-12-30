@@ -1,5 +1,6 @@
 # MERN-boilerplate
 MERN-boilerplate for adding/reading posts and comments.
+Integrated with 0Auth functionalities.
 
 It implemented main authorization like JWT and protected routes.
 This is just for JWT and main blog function.
