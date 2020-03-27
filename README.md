@@ -5,7 +5,7 @@ Integrated with 0Auth functionalities.
 It implemented main authorization like JWT and protected routes.
 This is just for JWT and main blog function.
 
-### After cloning
+### Available Scripts
 npm run client-install
 
 npm install
