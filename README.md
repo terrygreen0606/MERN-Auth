@@ -6,9 +6,13 @@ It implemented main authorization like JWT and protected routes.
 This is just for JWT and main blog function.
 
 ### Available Scripts
+```
 npm run client-install
+```
 
+```
 npm install
+```
 
 ### To run the app
 
